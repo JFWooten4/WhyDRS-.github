@@ -56,6 +56,6 @@ Help us draft new financial policies!
 
 ## Other Social Media
 
-- [Discord](https://mee6.xyz/i/xyGz2buGJR)  
-- [Lemmy](https://lemmy.whynotdrs.org/)  
-- [X (Twitter)](https://twitter.com/whydrs)  
+- [Discord](https://mee6.xyz/i/xyGz2buGJR)
+- [Discussions](https://github.com/WhyDRS/.github/discussions)
+- [X (Twitter)](https://twitter.com/whydrs)
