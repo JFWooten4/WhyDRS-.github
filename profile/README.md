@@ -57,5 +57,5 @@ Help us draft new financial policies!
 ## Other Social Media
 
 - [Discord](https://mee6.xyz/i/xyGz2buGJR)
-- [Discussions](https://github.com/WhyDRS/.github/discussions)
+- [Discussions](https://github.com/orgs/WhyDRS/discussions)
 - [X (Twitter)](https://twitter.com/whydrs)
